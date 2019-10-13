@@ -1,0 +1,2 @@
+all:
+	pdfcslatex resume.tex
