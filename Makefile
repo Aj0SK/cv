@@ -1,2 +1,2 @@
 all:
-	pdfcslatex resume.tex
+	pdfcslatex andrej_korman_resume.tex
